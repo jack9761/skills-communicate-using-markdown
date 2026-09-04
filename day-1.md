@@ -1,3 +1,4 @@
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 <h1>Task list</h1>
 <h2>Also task lsit</h2>
 #Task List with markdown syntax instead of html
